@@ -1,0 +1,9 @@
+# Development environment directories
+.vscode/
+.vs/
+
+# Builds
+dist/
+
+# Credentials
+creds/
