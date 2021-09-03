@@ -2,8 +2,8 @@
     "disabledCommands": [],
     "developerOnlyCommands": [],
     "developers": [
-        "",
-        ""
+        "dev_id_here",
+        "another_dev_id_here"
     ],
     "version": "0.0.1"
 }
